@@ -15,6 +15,8 @@
 
 - 📝 I regularly Post Images (Blog Page) on [https://kartik11o.github.io/PixBlog/](https://kartik11o.github.io/PixBlog/)
 
+- 📝 Created a Fan-Page of Jujutsu Kaisen  [https://workart305.wixstudio.io/jujutsu-kaisen](https://workart305.wixstudio.io/jujutsu-kaisen)
+
 - 📫 How to reach me **kartikweb101@gmail.com**
 
 - ⚡ Fun fact **The term "bug" to describe a glitch or error in a program originated in 1947, I know i'm Funny**
