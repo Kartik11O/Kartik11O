@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif">
-<h1 align="center">Hi 👋, I'm Kartik Shrivastava</h1>
+<h1 align="center">Hi 👋, I'm Raghav Shrivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
 
